@@ -18,7 +18,7 @@ Are there patterns of cancellations/returns?
 
 🔹 Step 2: Get the Dataset
 
-📂 Dataset: E-commerce Data (Kaggle)
+📂 Dataset: https://www.kaggle.com/datasets/carrie1/ecommerce-data
 
 Contains transactions from a UK-based online retailer.
 
